@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BirthdayCard</string>
+    <string name="key_birthday_data">birthday_data</string>
+
+    <!-- Activity1 -->
+    <string name="title_create_card">Create Birthday Card</string>
+    <string name="label_to">Happy Birthday to:</string>
+    <string name="label_date">Date:</string>
+    <string name="label_from">From:</string>
+    <string name="hint_name">Enter Your Name</string>
+    <string name="hint_date">Enter date. Ex. 18-03-2568</string>
+    <string name="hint_from">Enter Your Name</string>
+    <string name="btn_create">Create</string>
+    <string name="err_required">Please fill all fields</string>
+
+    <!-- Activity2 -->
+    <string name="txt_happy">Happy</string>
+    <string name="txt_birthday">Birthday</string>
+    <string name="prefix_from">From %1$s</string>
+</resources>
